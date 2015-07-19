@@ -6,9 +6,9 @@ To report any issues you find please use [this link](https://github.com/JDCTeam/
 - Baseband version: ex. **I9505XXUHOD7**
 - ROM version: ex. **20150719**
 - GApps Package: **CM GApps [date]** or **Open GApps [type] [date]** or **Slim GApps [type] [date]** ex. **Open GApps Micro 20150719**
-- 
+
 - Did you do a clean install for the currently installed build? **yes** or **no**
 - Did you reboot after having the issue? **yes/no**
 - Did you do any system modification? **yes: [mod]/no**
 - Did you flash another kernel? **yes/no**
-- Did you install Xposed framework? **yes/no*
+- Did you install Xposed framework? **yes/no**
