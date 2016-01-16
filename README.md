@@ -1,6 +1,6 @@
 # JDCTeam Optimized CyanogenMod Issue Tracking
 
-To report any issues you find please use [this link](https://github.com/JDCTeam/issue_tracking_cm/issues), do not forget to provide as much info as possible. If you remember the latest build where the issue didn't exist it would greatly help to track down what caused it. The following is an useful bug report format.
+To report any issues you find please use [this link](https://github.com/JDCTeam/issue_tracking_cm/issues), do not forget to provide as much info as possible. Please **do not report** the same issue if someone already reported it, this will only slow down our operations. If you remember the latest build where the issue didn't exist it would greatly help to track down what caused it. The following is an useful bug report format.
 
 - Phone model: ex. **jfltexx** or **GT-I9505**
 - Baseband version: ex. **I9505XXUHOD7**
